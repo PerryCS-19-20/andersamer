@@ -1,0 +1,28 @@
+* {
+    border-radius: 5px;
+}
+
+#title {
+    color:red;
+    font-family: Monoton, cursive;
+    font-size: 3em;
+    border: 2px dashed red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    margin: 2% 10% 2% 10%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
